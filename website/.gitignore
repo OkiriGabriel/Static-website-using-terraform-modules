@@ -5,6 +5,6 @@ terraform.lock.hcl
 .terraform
 ./terraform
 terraform
-.variables
-variables
-./variables
+.variables.tf
+variables.tf
+./variables.tf
